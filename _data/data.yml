@@ -8,78 +8,61 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Alexander Aponte Largacha
+    tagline: Programador
+    avatar: Fotoejemplo.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: alexanderaponte109@gmail.com
+    phone: 318 7328517
+    timezone: America/Bogota Timezone
     citizenship:
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    linkedin: alexanderaponte
+    xing: alexnderaponte
+    github: alex01-07
+    telegram: Alexander Aponte # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@aponte_109'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
+      title: Language
       info:
         - idiom: English
-          level: Native
-
-        - idiom: French
-          level: Professional
+          level: B1
 
         - idiom: Spanish
-          level: Professional
+          level: Nativo
 
     interests:
-      title: Interests
+      title: Intereses
       info:
-        - item: Climbing
+        - item: Dibujar-Pintar
           link:
 
-        - item: Snowboarding
+        - item: Deportes (Futbol, Basquet, Ultimate)
           link:
 
-        - item: Cooking
+        - item: Bateria
           link:
 
 career-profile:
-    title: Career Profile
+    title: Portafolio de carrera
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Estudiante de Ingeniería de Sistemas en la Universidad Javeriana de Colombia, con cuatro semestres cursados. 
+      Durante mi formación, he adquirido conocimientos en áreas como introducción a la programación, estructuras de datos, JavaScript, bases de datos y redes. 
+      He desarrollado proyectos académicos relacionados con estas materias, lo que me ha permitido aplicar y consolidar mis habilidades técnicas. Mi enfoque se centra en el aprendizaje continuo y la aplicación práctica de los conceptos adquiridos. Busco seguir creciendo profesionalmente y contribuir en proyectos innovadores dentro del campo de la ingeniería de sistemas.
 education:
-    title: Education
+    title: Educacion
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Ingeniero de Sistemas
+        university: Pontificia Universidad Javeriana
+        time: 2024 - presente
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -90,176 +73,84 @@ education:
             - Bullet point
 
 experiences:
-    title: Experiences
+    title: Habilidades Tecnicas
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Lenguajes de programación
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Conocimiento en multiples lenguajes de programacion como lo son.
+            - JavaScript
+            - C++
+            - SQL
+
+      - role: Herramientas y tecnologías
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Conocimiento y practica en diferentes Herramientas como lo son.
+            - Git
+            - MySQL
+            - Visual Studio Code
+
+      - role: Habilidades blandas
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Algunas habiliades blandas que manejo y que llegan a influir en actividades, 
+          asiendo que mejoren o tenga un mayor desarrollo. Ya que destaco en trabajar en equipo, resolver problemas, aprender rápidamente, entre otras.
 
 certifications:
-      title: Certifications
+      title: Experencias
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: Proyectos Académicos
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Desarrollo de soluciones tecnológicas en el marco de las asignaturas cursadas.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+        - name: Participación en Hackathons
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Colaboración en equipos para resolver problemas tecnológicos en tiempo limitado.
 
 projects:
-    title: Projects
+    title: Proyectos
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Como se meciono anteriomente algunos proyectos relizados academicos, donde ahora hablare mas en especifico.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Sistema Bancario en Java
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Desarrollé una aplicación en Java que simula las operaciones básicas de un banco, como creación de cuentas, transferencias y gestión de transacciones. Este proyecto me permitió fortalecer mis habilidades en programación orientada a objetos y manejo de estructuras de datos."
 
-      - title: Tempo
+      - title: Juego de Damas Chinas en C++
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Implementé un juego de damas chinas funcional en la consola, con reglas predefinidas y validación de movimientos. Este proyecto me ayudó a mejorar mi lógica de programación y mi capacidad para resolver problemas algorítmicos."
 
-      - title: Atom
+      - title: Split Pay (Aplicación de Gestión de Pagos en SQL)
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Diseñé y desarrollé un sistema de gestión de pagos compartidos utilizando SQL. La aplicación permite a los usuarios registrar transacciones y dividir gastos, almacenando la información en una base de datos relacional. Este proyecto reforzó mis habilidades en diseño de bases de datos y consultas SQL avanzadas."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+      
 oss:
-    title: OSS Contributions
+    title: Objetivos 
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Finalizar la carrera y especializarme en desarrollo de software, asi mismo contribuir a proyectos innovadores en el campo de la tecnología.
+      Tambien conseguir multiples certificaciones como podrian ser.
+
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Curso de Introducción a Python (Plataforma XYZ)
+    
+      - title: Taller de Desarrollo Web Básico (Universidad Javeriana)
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Curso de IOT en la agricultira (Plazit)
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Habiliades &amp; Competencia
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: SQL
+        level: 70%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Javascript 
+        level: 65%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: C++
         level: 60%
+
+      - name: Blender & Photoshop
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
